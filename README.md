@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Habit-Zenith (2).png" alt="Habit Zenith Logo" width="150">
+  <img src="./Habit-Zenith.png" alt="Habit Zenith Logo" width="150">
 </div>
 
 ## Description

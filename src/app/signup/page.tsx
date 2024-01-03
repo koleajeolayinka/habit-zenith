@@ -1,9 +1,7 @@
 import React from 'react'
 
-const SignOut = () => {
+export default function page () {
   return (
     <div>SignUp</div>
   )
 }
-
-export default SignOut
